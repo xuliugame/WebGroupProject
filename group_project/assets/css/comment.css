@@ -1,0 +1,159 @@
+/* main content */
+
+/* main content */
+.content3 {
+    width: 800px;
+    height: auto;
+    margin: 360px auto;
+}
+
+/*  h1 style */
+.content3 h1 {
+    text-align: center;
+}
+
+
+.content2 {
+    width: 800px;
+    height: auto;
+    margin: 100px auto;
+}
+
+
+
+/*  row style */
+.row {
+    padding-left: 100px;
+}
+
+/*  row span style */
+.row span {
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+/*  row2 style */
+.row2 {
+    padding-left: 100px;
+}
+
+/*  row2 span style */
+.row2 span {
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: -5px;
+    line-height: 21px;
+}
+
+/*  row2 input style */
+.row2 input {
+    vertical-align: middle;
+}
+
+/*  input style */
+.in {
+    border: 2px solid #d2d2d2;
+    background-color: transparent;
+    height: 23px;
+    vertical-align: middle;
+}
+
+/*  space style */
+.space {
+    width: 100%;
+    height: 30px;
+}
+
+/*  text style */
+.te {
+    margin-top: 20px;
+}
+
+/*  submit button style */
+.btn {
+    border-radius: 10px;
+    background-position: left top;
+    background-repeat: repeat;
+    width: 200px;
+    height: 30px;
+    background-color: #8AC007;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 10px 10px;
+}
+
+/*  button hover style */
+.btn:hover {
+    transition: 1s ease 0s;
+    transform: scale(1.4);
+    cursor: pointer;
+}
+
+/*  warnning text style */
+.lab {
+    font-size: 14px;
+    color: red;
+    display: none;
+}
+
+/*  input style */
+input {
+    border: 1px solid white;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 6, 0.2), 0 0 8px rgba(0, 0, 6, 0.2);
+    box-shadow: inset 0px 1px 1px rgba(0, 0, 6, 0.2), 0px 0px 8px rgba(0, 0, 6, 0.2);
+}
+
+/*  textarea style */
+textarea {
+    border: 1px solid white;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.2), 0 0 8px rgba(0, 0, 0, 0.2);
+    box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.2), 0px 0px 8px rgba(0, 0, 0, 0.2);
+}
+
+/*  input hover style */
+input:hover,
+input:focus {
+    border: 1px solid #85afe1;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 8px rgba(102, 175, 233, .6);
+    box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.075), 0px 0px 8px rgba(102, 175, 233, 0.6);
+}
+
+/*  textarea hover style */
+textarea:hover,
+textarea:focus {
+    border: 1px solid #85afe1;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 8px rgba(102, 175, 233, .6);
+    box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.075), 0px 0px 8px rgba(102, 175, 233, 0.6);
+}
+
+/*  table style */
+table {
+    width: 800px;
+    padding: 10px;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+/* td in table style */
+th,
+td {
+    border: #d2d2d2 solid 2px;
+    padding: 5px;
+}
+
+/*  date width style */
+.date {
+    width: 30%;
+}
+
+/*  no width style */
+.no {
+    width: 10%;
+}
+
+/*  name width style */
+.name {
+    width: 20%;
+}
